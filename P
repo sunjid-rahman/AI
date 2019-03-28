@@ -1,0 +1,2 @@
+git remote add origin https://github.com/sunjid-rahman/8-Puzzle.git
+git push -u origin master
